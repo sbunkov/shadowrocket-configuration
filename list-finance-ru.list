@@ -1,6 +1,6 @@
-# BASED ON: https://www.cbr.ru/banking_sector/credit/cowebsites/
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # UPDATED: 2023-06-18
+# BASED ON: https://www.cbr.ru/banking_sector/credit/cowebsites/
 DOMAIN-SUFFIX,13.alfabank.ru
 DOMAIN-SUFFIX,131.ru
 DOMAIN-SUFFIX,1cb.ru
