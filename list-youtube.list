@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-08-10
+# UPDATED: 2024-08-12
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtu.be
@@ -10,4 +10,6 @@ DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ytimg.l.google.com
 DOMAIN-SUFFIX,ytstatic.l.google.com
+DOMAIN-KEYWORD,ggpht
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,ytimg
