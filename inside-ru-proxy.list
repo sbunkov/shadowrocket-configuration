@@ -1,5 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # UPDATED: 2024-08-12
+DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
