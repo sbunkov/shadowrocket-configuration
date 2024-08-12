@@ -10,8 +10,8 @@ fallback-dns-server = system
 update-url = https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/inside-ru.conf
 
 [Rule]
-RULE-SET,https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/inside-proxy-ru.list,PROXY
-RULE-SET,https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/inside-youtube-proxy.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/inside-ru-proxy.list,PROXY
+RULE-SET,https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/inside-ru-youtube-proxy.list,PROXY
 DOMAIN-SUFFIX,stun.l.google.com,REJECT-DROP
 # GEOIP,RU,DIRECT
 FINAL,DIRECT
