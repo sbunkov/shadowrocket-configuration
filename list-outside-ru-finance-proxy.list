@@ -1,13 +1,13 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2023-06-18
+# UPDATED: 2023-08-20
 # BASED ON: https://www.cbr.ru/banking_sector/credit/cowebsites/
-DOMAIN-SUFFIX,13.alfabank.ru
-DOMAIN-SUFFIX,131.ru
 DOMAIN-SUFFIX,1cb.ru
 DOMAIN-SUFFIX,1erc.ru
 DOMAIN-SUFFIX,3ds.ubrr.ru
 DOMAIN-SUFFIX,3dsmc.ubrr.ru
 DOMAIN-SUFFIX,5ka-my.gift-cards.ru
+DOMAIN-SUFFIX,13.alfabank.ru
+DOMAIN-SUFFIX,131.ru
 DOMAIN-SUFFIX,7305115.ru
 DOMAIN-SUFFIX,abank.ru
 DOMAIN-SUFFIX,abr.ru
@@ -77,8 +77,8 @@ DOMAIN-SUFFIX,avangard.ru
 DOMAIN-SUFFIX,aversbank.ru
 DOMAIN-SUFFIX,avtogradbank.ru
 DOMAIN-SUFFIX,avtotorgbank.ru
-DOMAIN-SUFFIX,b131.ru
 DOMAIN-SUFFIX,b2b.rosbank-dom.ru
+DOMAIN-SUFFIX,b131.ru
 DOMAIN-SUFFIX,balakovo-bank.ru
 DOMAIN-SUFFIX,balance.faktura.ru
 DOMAIN-SUFFIX,baltbank.ru
@@ -95,9 +95,9 @@ DOMAIN-SUFFIX,bank-rk.ru
 DOMAIN-SUFFIX,bank.bcs.ru
 DOMAIN-SUFFIX,bank.rs.ru
 DOMAIN-SUFFIX,bank.vwfs.ru
+DOMAIN-SUFFIX,bank45.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bank131.ru
-DOMAIN-SUFFIX,bank45.ru
 DOMAIN-SUFFIX,bankauto.ru
 DOMAIN-SUFFIX,bankd.ru
 DOMAIN-SUFFIX,bankdolinsk.ru
