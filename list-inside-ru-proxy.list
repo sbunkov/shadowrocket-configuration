@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdnfacebook.com
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,istories.media
@@ -61,6 +63,7 @@ DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,tile.com
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.co
