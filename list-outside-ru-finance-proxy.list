@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2023-08-20
+# UPDATED: 2023-09-01
 # BASED ON: https://www.cbr.ru/banking_sector/credit/cowebsites/
 DOMAIN-SUFFIX,1cb.ru
 DOMAIN-SUFFIX,1erc.ru
@@ -500,7 +500,6 @@ DOMAIN-SUFFIX,letomall.gift-cards.ru
 DOMAIN-SUFFIX,lexus-finance.ru
 DOMAIN-SUFFIX,lexus.ru
 DOMAIN-SUFFIX,link.alfabank.ru
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lk.5element-mfo.ru
 DOMAIN-SUFFIX,lk.digital.uralsib.ru
 DOMAIN-SUFFIX,lk.mkb.ru
