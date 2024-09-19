@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-09-02
+# UPDATED: 2024-09-19
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,aol.com
@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,moscowtimes.ru
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
+DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,openai.com
