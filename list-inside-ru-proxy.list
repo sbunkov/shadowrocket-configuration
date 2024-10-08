@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-10-07
+# UPDATED: 2024-10-08
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,aol.com
@@ -13,7 +13,15 @@ DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cleverbridge.com
 DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
 DOMAIN-SUFFIX,eztvx.to
@@ -100,6 +108,7 @@ DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,deezer
+DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,elevenlabs
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,instagram
