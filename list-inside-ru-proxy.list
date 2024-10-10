@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-10-08
+# UPDATED: 2024-10-10
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,aol.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fburl.com
 DOMAIN-SUFFIX,gateway.facebook.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,ifconfig.me
