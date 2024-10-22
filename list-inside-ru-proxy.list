@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-10-15
+# UPDATED: 2024-10-22
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,aol.com
@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,taplink.cc
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,threema.ch
 DOMAIN-SUFFIX,tile.com
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,tripit.com
