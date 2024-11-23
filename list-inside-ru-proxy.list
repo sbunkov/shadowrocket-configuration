@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-11-11
+# UPDATED: 2024-11-23
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
 DOMAIN-SUFFIX,91mobiles.com
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,taplink.cc
 DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thenorthface.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,threema.ch
 DOMAIN-SUFFIX,thule.com
