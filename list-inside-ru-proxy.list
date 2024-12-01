@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-11-30
+# UPDATED: 2024-12-01
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
 DOMAIN-SUFFIX,91mobiles.com
@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,appgineers.de
 DOMAIN-SUFFIX,appraven.net
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,bulletvpn.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,cdnfbsbx.com
@@ -119,6 +120,7 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vpn.works
+DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,wfmp.net
 DOMAIN-SUFFIX,wifimap.io
 DOMAIN-SUFFIX,x.com
