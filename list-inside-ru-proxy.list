@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-12-11
+# UPDATED: 2024-12-12
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
 DOMAIN-SUFFIX,91mobiles.com
@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,istories.media
 DOMAIN-SUFFIX,jbl.com
@@ -82,6 +83,8 @@ DOMAIN-SUFFIX,niteize.com
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,openwrt.org
