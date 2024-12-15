@@ -88,7 +88,6 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,paperpaper.ru
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,proton.me
@@ -107,7 +106,6 @@ DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,taplink.cc
-DOMAIN-SUFFIX,theins.ru
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thenorthface.com
 DOMAIN-SUFFIX,thepiratebay.org
@@ -146,6 +144,7 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,kinozal
 DOMAIN-KEYWORD,libgen
+DOMAIN-SUFFIX,paperpaper
 DOMAIN-KEYWORD,theins
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,znanija
