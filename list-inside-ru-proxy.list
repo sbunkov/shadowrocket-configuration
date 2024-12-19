@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2024-12-16
+# UPDATED: 2024-12-19
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
 DOMAIN-SUFFIX,91mobiles.com
@@ -132,6 +132,7 @@ DOMAIN-SUFFIX,wfmp.net
 DOMAIN-SUFFIX,wifimap.io
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,z-lib.io
+DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zerolab.net
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,anzu-us
