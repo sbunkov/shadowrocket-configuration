@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-01-19
+# UPDATED: 2025-01-23
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,moscowtimes.ru
+DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,niteize.com
