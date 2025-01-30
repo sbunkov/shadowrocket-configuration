@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-01-27
+# UPDATED: 2025-01-30
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,cleverbridge.com
 DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,cub.red
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discord-activities.com
 DOMAIN-SUFFIX,discordactivities.com
@@ -69,6 +70,7 @@ DOMAIN-SUFFIX,kmail-lists.com
 DOMAIN-SUFFIX,koofr.eu
 DOMAIN-SUFFIX,koofr.net
 DOMAIN-SUFFIX,l.facebook.com
+DOMAIN-SUFFIX,lampa.mx
 DOMAIN-SUFFIX,lchamp.com
 DOMAIN-SUFFIX,lego.com
 DOMAIN-SUFFIX,libgen.is
