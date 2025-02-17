@@ -1,13 +1,15 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-02-06
+# UPDATED: 2025-02-17
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,aalto.fi
 DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,anzu-us.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api2.support-kp.com
 DOMAIN-SUFFIX,appgineers.de
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,appraven.net
@@ -21,9 +23,13 @@ DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clamav.net
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,clashofclans.inbox.supercell.com
 DOMAIN-SUFFIX,cleverbridge.com
 DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,cub.red
+DOMAIN-SUFFIX,datacamp.com
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,discord-activities.com
 DOMAIN-SUFFIX,discordactivities.com
@@ -34,6 +40,7 @@ DOMAIN-SUFFIX,discordpartygames.com
 DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discordstatus.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
+DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,expedia.com
 DOMAIN-SUFFIX,eztvx.to
@@ -45,6 +52,9 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,game.clashofclans.com
+DOMAIN-SUFFIX,game-assets.clashofclans.com
+DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gateway.facebook.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,gitlab.com
@@ -53,6 +63,7 @@ DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gurumaps.app
 DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,igcdn.com
@@ -66,6 +77,8 @@ DOMAIN-SUFFIX,jbl.com
 DOMAIN-SUFFIX,jetbrans.com
 DOMAIN-SUFFIX,jetstar.com
 DOMAIN-SUFFIX,junodownload.com
+DOMAIN-SUFFIX,kahoot.com
+DOMAIN-SUFFIX,kahoot.it
 DOMAIN-SUFFIX,katfile.com
 DOMAIN-SUFFIX,keepsolid.com
 DOMAIN-SUFFIX,kmail-lists.com
@@ -108,8 +121,11 @@ DOMAIN-SUFFIX,perito.media
 DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,realguide.com
+DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,retouch4.me
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,semrush.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,severreal.org
 DOMAIN-SUFFIX,shein.com
@@ -118,10 +134,14 @@ DOMAIN-SUFFIX,skylum.com
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,stacksocial.com
 DOMAIN-SUFFIX,static.retouch4.me
 DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tableau.com
+DOMAIN-SUFFIX,tableausoftware.com
+DOMAIN-SUFFIX,tableauusercontent.com
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,taplink.cc
 DOMAIN-SUFFIX,themoviedb.org
@@ -142,6 +162,7 @@ DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,uniqlo.com
+DOMAIN-SUFFIX,user.auth.xboxlive.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vmware.com
@@ -150,6 +171,8 @@ DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,wfmp.net
 DOMAIN-SUFFIX,wifimap.io
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x-minus.pro
+DOMAIN-SUFFIX,xsts.auth.xboxlive.com
 DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zerolab.net
