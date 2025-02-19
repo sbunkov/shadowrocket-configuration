@@ -13,7 +13,7 @@
         "username": "sbunkov",
         "name": "Svyatoslav",
         "hasPlus": true,
-        "totalXp": 2750,
+        "totalXp": 9050,
         "courses": [
           {
             "id": "DUOLINGO_EN_RU",
@@ -21,7 +21,7 @@
             "learningLanguage": "en",
             "fromLanguage": "ru",
             "crowns": 9999,
-            "xp": 10000,
+            "xp": 9999,
             "healthEnabled": true,
             "preload": false,
             "placementTestAvailable": false
