@@ -21,13 +21,13 @@
             "learningLanguage": "en",
             "fromLanguage": "ru",
             "crowns": 9999,
-            "xp": 2750,
+            "xp": 10000,
             "healthEnabled": true,
             "preload": false,
             "placementTestAvailable": false
           }
         ],
-        "streak": 0,
+        "streak": 10,
         "motivation": "travel",
         "privacySettings": [],
         "location": "St. Petersburg, Russia",
