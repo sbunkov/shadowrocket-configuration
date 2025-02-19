@@ -12,7 +12,7 @@
         "id": 186231030,
         "username": "sbunkov",
         "name": "Svyatoslav",
-        "hasPlus": true,  // Set to true to unlock premium (Plus)
+        "hasPlus": true,
         "totalXp": 2750,
         "courses": [
           {
