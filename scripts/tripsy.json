@@ -1,0 +1,18 @@
+{
+  "user": {
+    "id": "12345678",
+    "email": "svyatoslav@bunkov.com",
+    "name": "Svyatoslav Bunkov",
+    "subscription": {
+      "status": "active",
+      "plan": "lifetime",
+      "features": [
+        "unlimited_trips",
+        "cloud_sync",
+        "collaboration",
+        "custom_icons"
+      ],
+      "expiration": "2099-12-31T23:59:59Z"
+    }
+  }
+}
