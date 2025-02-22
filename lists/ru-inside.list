@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-02-19
+# UPDATED: 2025-02-22
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,decathlon
@@ -125,6 +125,7 @@ DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netpeaksoftware.com
 DOMAIN-SUFFIX,niteize.com
+DOMAIN-SUFFIX,nitroflare.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
@@ -152,6 +153,7 @@ DOMAIN-SUFFIX,rakuten.com
 DOMAIN-SUFFIX,rakuten.com.tw
 DOMAIN-SUFFIX,rakuten.ne.jp
 DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,rclon.com
 DOMAIN-SUFFIX,realguide.com
 DOMAIN-SUFFIX,rebates.jp
