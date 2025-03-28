@@ -1,6 +1,7 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-03-04
+# UPDATED: 2025-03-28
 DOMAIN-KEYWORD,4pda
+DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,deezer
