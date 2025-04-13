@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-04-11
+# UPDATED: 2025-04-13
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
@@ -178,6 +178,7 @@ DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,stacksocial.com
 DOMAIN-SUFFIX,static.retouch4.me
+DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,surveymonkey.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tableau.com
