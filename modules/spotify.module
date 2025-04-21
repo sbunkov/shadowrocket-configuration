@@ -1,7 +1,6 @@
 #!name=Spotify
 #!desc=Partially unlocks premium
 # 2024.05.27 Partially unlocks premium, sound quality cannot be set to super high (we recommend opening the script after logging in, restarting the app and waiting for the script to take effect)
-
 # Repository address: https://github.com/app2smile/rules
 # Function: 1. Removes ads 2. Shows artist/album list normally 3. Removes random play
 
