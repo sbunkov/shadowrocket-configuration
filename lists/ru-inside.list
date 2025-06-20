@@ -37,9 +37,6 @@ DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bulletvpn.com
 DOMAIN-SUFFIX,canva.com
-DOMAIN-SUFFIX,cdnfacebook.com
-DOMAIN-SUFFIX,cdnfbsbx.com
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,clashofclans.com
@@ -100,7 +97,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,istories.media
 DOMAIN-SUFFIX,jbl.com
-DOMAIN-SUFFIX,jetbrans.com
+DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetstar.com
 DOMAIN-SUFFIX,junodownload.com
 DOMAIN-SUFFIX,kahoot.com
@@ -160,12 +157,10 @@ DOMAIN-SUFFIX,rakuten.com.tw
 DOMAIN-SUFFIX,rakuten.ne.jp
 DOMAIN-SUFFIX,rakuten.tw
 DOMAIN-SUFFIX,rapidgator.net
-DOMAIN-SUFFIX,rclon.com
 DOMAIN-SUFFIX,realguide.com
 DOMAIN-SUFFIX,rebates.jp
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,rei.com
-DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,retouch4.me
 DOMAIN-SUFFIX,reve.art
 DOMAIN-SUFFIX,semrush.com
