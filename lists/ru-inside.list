@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-06-29
+# UPDATED: 2025-07-01
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,anzu-us.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,api2.support-kp.com
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,appgineers.de
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,appraven.net
@@ -76,7 +77,6 @@ DOMAIN-SUFFIX,game-assets.clashofclans.com
 DOMAIN-SUFFIX,game.clashofclans.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gateway.facebook.com
-DOMAIN-SUFFIX,gdeposylka.ru
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gl-inet.com
 DOMAIN-SUFFIX,graph.facebook.com
