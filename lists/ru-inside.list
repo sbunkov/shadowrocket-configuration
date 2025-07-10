@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-07-09
+# UPDATED: 2025-07-10
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,appraven.net
 DOMAIN-SUFFIX,apteka.ru
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,bulletvpn.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clamav.net
@@ -222,6 +221,7 @@ DOMAIN-SUFFIX,vpn.works
 DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,wfmp.net
 DOMAIN-SUFFIX,wifimap.io
+DOMAIN-SUFFIX,windscribe.com
 DOMAIN-SUFFIX,x-minus.pro
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
