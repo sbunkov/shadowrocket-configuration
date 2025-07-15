@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-07-12
+# UPDATED: 2025-07-15
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
@@ -19,6 +19,8 @@ DOMAIN-KEYWORD,theins
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,znanija
 DOMAIN-KEYWORD,zona
+DOMAIN-SUFFIX,1001.tl
+DOMAIN-SUFFIX,1001tracklists.com
 DOMAIN-SUFFIX,2ip.io
 DOMAIN-SUFFIX,3dlutcreator.com
 DOMAIN-SUFFIX,3dlutcreator.ru
