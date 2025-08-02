@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-07-30
+# UPDATED: 2025-08-02
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
@@ -127,6 +127,7 @@ DOMAIN-SUFFIX,limetorrents.lol
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,list-manage.com
 DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,localsend.org
 DOMAIN-SUFFIX,macfilos.com
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,matadorequipment.com
