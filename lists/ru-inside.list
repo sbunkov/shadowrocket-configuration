@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-08-06
+# UPDATED: 2025-08-08
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,airbnb
 DOMAIN-KEYWORD,anzu-us
@@ -172,6 +172,7 @@ DOMAIN-SUFFIX,rakuten.com.tw
 DOMAIN-SUFFIX,rakuten.ne.jp
 DOMAIN-SUFFIX,rakuten.tw
 DOMAIN-SUFFIX,rapidgator.net
+DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,realguide.com
 DOMAIN-SUFFIX,rebates.jp
 DOMAIN-SUFFIX,redis.io
