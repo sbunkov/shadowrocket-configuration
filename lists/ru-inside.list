@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-08-29
+# UPDATED: 2025-08-30
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -55,7 +55,9 @@ DOMAIN-KEYWORD,pcbway
 DOMAIN-KEYWORD,piratbit
 DOMAIN-KEYWORD,potterybarn
 DOMAIN-KEYWORD,rentry
+DOMAIN-KEYWORD,rezka
 DOMAIN-KEYWORD,rule34
+DOMAIN-KEYWORD,rutor
 DOMAIN-KEYWORD,rutracker
 DOMAIN-KEYWORD,salesforce
 DOMAIN-KEYWORD,sci-hub
@@ -74,6 +76,7 @@ DOMAIN-KEYWORD,ultradox
 DOMAIN-KEYWORD,urbanculture
 DOMAIN-KEYWORD,vans
 DOMAIN-KEYWORD,westelm
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,whoer
 DOMAIN-KEYWORD,xnxx
 DOMAIN-KEYWORD,znanija
@@ -267,6 +270,7 @@ DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,cartoonporn.to
 DOMAIN-SUFFIX,cats.com
 DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,cdn.id.supercell.com
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,cdnbunny.org
 DOMAIN-SUFFIX,cdnfacebook.com
@@ -401,6 +405,7 @@ DOMAIN-SUFFIX,dpidetector.org
 DOMAIN-SUFFIX,dreamhost.com
 DOMAIN-SUFFIX,ducati.com
 DOMAIN-SUFFIX,dumskaya.net
+DOMAIN-SUFFIX,dyson.com
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,e621.net
 DOMAIN-SUFFIX,eaglecreek.com
@@ -434,6 +439,7 @@ DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,equalitie.org
 DOMAIN-SUFFIX,erogen.org
 DOMAIN-SUFFIX,etsy.com
+DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,everand.com
 DOMAIN-SUFFIX,expandrive.com
 DOMAIN-SUFFIX,expedia.com
@@ -511,6 +517,7 @@ DOMAIN-SUFFIX,gaggenau.com
 DOMAIN-SUFFIX,gallery.zetalliance.org
 DOMAIN-SUFFIX,gambody.com
 DOMAIN-SUFFIX,game-assets.clashofclans.com
+DOMAIN-SUFFIX,game.boombeachgame.com
 DOMAIN-SUFFIX,game.clashofclans.com
 DOMAIN-SUFFIX,game.co.uk
 DOMAIN-SUFFIX,gamedistribution.com
@@ -551,11 +558,15 @@ DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gpu-monkey.com
 DOMAIN-SUFFIX,gql.twitch.tv
 DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,grammarly.com
+DOMAIN-SUFFIX,grani.ru
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,graylog.org
@@ -566,8 +577,10 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groupon.com
 DOMAIN-SUFFIX,grouponcdn.com
 DOMAIN-SUFFIX,gsof.org
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gtagarage.com
 DOMAIN-SUFFIX,guilded.gg
+DOMAIN-SUFFIX,gulagu.net
 DOMAIN-SUFFIX,gurumaps.app
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,habr.com
@@ -575,6 +588,7 @@ DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,halooglasi.com
+DOMAIN-SUFFIX,harvestapp.com
 DOMAIN-SUFFIX,hashkey.com
 DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,havaianas.com
@@ -593,6 +607,7 @@ DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,hiveon.com
 DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,hollisterco.com
+DOMAIN-SUFFIX,holod.media
 DOMAIN-SUFFIX,home.by.me
 DOMAIN-SUFFIX,honeywell.com
 DOMAIN-SUFFIX,hostgator.com
@@ -606,6 +621,8 @@ DOMAIN-SUFFIX,hume.ai
 DOMAIN-SUFFIX,hybrid-analysis.com
 DOMAIN-SUFFIX,hyundainews.com
 DOMAIN-SUFFIX,i.gr-assets.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,i9.ytimg.com
 DOMAIN-SUFFIX,iaai.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibm.com
@@ -615,9 +632,11 @@ DOMAIN-SUFFIX,iedb.org
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ig.me
 DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,ign.com
 DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,iichan.hk
 DOMAIN-SUFFIX,ikea-usa.com
+DOMAIN-SUFFIX,ikea.com
 DOMAIN-SUFFIX,illuminate.google.com
 DOMAIN-SUFFIX,ilook.tv
 DOMAIN-SUFFIX,image.tmdb.org
@@ -638,6 +657,7 @@ DOMAIN-SUFFIX,insanelymac.com
 DOMAIN-SUFFIX,insideevs.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,install.launcher.omniverse.nvidia.com
+DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,intellipaat.com
 DOMAIN-SUFFIX,intelx.io
@@ -794,6 +814,7 @@ DOMAIN-SUFFIX,mbed.com
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,medicalnewstoday.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,meest-shop.com
 DOMAIN-SUFFIX,megogo.net
 DOMAIN-SUFFIX,melonbooks.co.jp
@@ -836,6 +857,7 @@ DOMAIN-SUFFIX,myheritage.com
 DOMAIN-SUFFIX,myprepaidcenter.com
 DOMAIN-SUFFIX,myqrcode.com
 DOMAIN-SUFFIX,myrotvorets.center
+DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neff-home.com
 DOMAIN-SUFFIX,neo4j.com
@@ -868,6 +890,9 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,novaline.fm
+DOMAIN-SUFFIX,novaya.no
+DOMAIN-SUFFIX,novayagazeta.eu
+DOMAIN-SUFFIX,novayagazeta.ru
 DOMAIN-SUFFIX,novy.tv
 DOMAIN-SUFFIX,nsfwalbum.com
 DOMAIN-SUFFIX,ntc.party
@@ -981,6 +1006,7 @@ DOMAIN-SUFFIX,privatekeys.pw
 DOMAIN-SUFFIX,prnt.sc
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,prod.smassets.net
+DOMAIN-SUFFIX,proekt.media
 DOMAIN-SUFFIX,promods.net
 DOMAIN-SUFFIX,prostovpn.org
 DOMAIN-SUFFIX,proton.me
@@ -1079,6 +1105,8 @@ DOMAIN-SUFFIX,schenker-tech.de
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,sdxcentral.com
 DOMAIN-SUFFIX,searchfloor.org
+DOMAIN-SUFFIX,seasonvar.ru
+DOMAIN-SUFFIX,security.id.supercell.com
 DOMAIN-SUFFIX,securitytrails.com
 DOMAIN-SUFFIX,seedoff.zannn.top
 DOMAIN-SUFFIX,seekvectorlogo.net
@@ -1112,6 +1140,7 @@ DOMAIN-SUFFIX,site.com
 DOMAIN-SUFFIX,sites.fastspring.com
 DOMAIN-SUFFIX,sketchup.com
 DOMAIN-SUFFIX,skiff.com
+DOMAIN-SUFFIX,skladchik.com
 DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skycdp.com
@@ -1242,6 +1271,7 @@ DOMAIN-SUFFIX,tripit.com
 DOMAIN-SUFFIX,trueblackmetalradio.com
 DOMAIN-SUFFIX,trusteeglobal.com
 DOMAIN-SUFFIX,tsmc.com
+DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
@@ -1251,6 +1281,7 @@ DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tvn24.pl
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twirpx.com
+DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitter.co
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitthat.com
@@ -1373,7 +1404,14 @@ DOMAIN-SUFFIX,yithemes.com
 DOMAIN-SUFFIX,yle.fi
 DOMAIN-SUFFIX,yourdictionary.com
 DOMAIN-SUFFIX,youtrack.cloud
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,yt4.ggpht.com
+DOMAIN-SUFFIX,ytimg.l.google.com
 DOMAIN-SUFFIX,yts.mx
+DOMAIN-SUFFIX,ytstatic.l.google.com
 DOMAIN-SUFFIX,yummyani.me
 DOMAIN-SUFFIX,yummyanime.tv
 DOMAIN-SUFFIX,z-lib.io
@@ -1392,5 +1430,3 @@ DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zombie-film.live
 DOMAIN-SUFFIX,zoosk.com
-IP-CIDR,104.16.218.84/32
-IP-CIDR,104.16.219.84/32
