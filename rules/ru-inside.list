@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-09-25
+# UPDATED: 2025-09-26
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -347,6 +347,7 @@ DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,d.docs.live.net
 DOMAIN-SUFFIX,d.lordsfilm.info
 DOMAIN-SUFFIX,daemon-tools.cc
+DOMAIN-SUFFIX,daringfireball.net
 DOMAIN-SUFFIX,darkproject.eu
 DOMAIN-SUFFIX,data-cdn.mbamupdates.com
 DOMAIN-SUFFIX,data.mongodb-api.com
