@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-09-26
+# UPDATED: 2025-10-05
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1306,6 +1306,7 @@ DOMAIN-SUFFIX,unfiltered.adguard-dns.com
 DOMAIN-SUFFIX,uniqlo.com
 DOMAIN-SUFFIX,unix.com
 DOMAIN-SUFFIX,unscreen.com
+DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,user.auth.xboxlive.com
