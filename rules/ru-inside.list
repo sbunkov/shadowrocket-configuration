@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-10-31
+# UPDATED: 2025-11-02
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -300,6 +300,7 @@ DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashofclans.inbox.supercell.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,cleartrip.com
 DOMAIN-SUFFIX,clevelandclinic.org
 DOMAIN-SUFFIX,cleverbridge.com
 DOMAIN-SUFFIX,clickocean.io
