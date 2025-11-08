@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-11-03
+# UPDATED: 2025-11-08
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1003,6 +1003,7 @@ DOMAIN-SUFFIX,plugshare.com
 DOMAIN-SUFFIX,plumbr.io
 DOMAIN-SUFFIX,pluralsight.com
 DOMAIN-SUFFIX,pny.com
+DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,politico.eu
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,pornhub.com
