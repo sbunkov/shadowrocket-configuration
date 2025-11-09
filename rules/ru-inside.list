@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-11-08
+# UPDATED: 2025-11-09
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -208,6 +208,7 @@ DOMAIN-SUFFIX,babook.org
 DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,baginya.org
 DOMAIN-SUFFIX,bandcamp.com
+DOMAIN-SUFFIX,bandsintown.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bato.to
 DOMAIN-SUFFIX,bcbits.com
