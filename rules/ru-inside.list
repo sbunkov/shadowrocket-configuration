@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-11-12
+# UPDATED: 2025-11-17
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -749,6 +749,7 @@ DOMAIN-SUFFIX,leica-geosystems.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,lenovo.com
 DOMAIN-SUFFIX,lenso.ai
+DOMAIN-SUFFIX,lenstip.com
 DOMAIN-SUFFIX,letsvpn.world
 DOMAIN-SUFFIX,letyshops.com
 DOMAIN-SUFFIX,lib.rus.ec
