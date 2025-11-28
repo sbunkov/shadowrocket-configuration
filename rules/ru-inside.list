@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-11-24
+# UPDATED: 2025-11-28
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -543,6 +543,7 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,gentlemencoders.com
 DOMAIN-SUFFIX,geolocation.onetrust.com
 DOMAIN-SUFFIX,geospy.ai
 DOMAIN-SUFFIX,getoutline.com
