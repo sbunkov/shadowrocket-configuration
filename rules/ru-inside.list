@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-11-28
+# UPDATED: 2025-12-04
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -646,6 +646,7 @@ DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,iichan.hk
 DOMAIN-SUFFIX,ikea-usa.com
 DOMAIN-SUFFIX,ikea.com
+DOMAIN-SUFFIX,ikissvk.com
 DOMAIN-SUFFIX,illuminate.google.com
 DOMAIN-SUFFIX,ilook.tv
 DOMAIN-SUFFIX,image.tmdb.org
