@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-04
+# UPDATED: 2025-12-05
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1451,3 +1451,4 @@ DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zombie-film.live
 DOMAIN-SUFFIX,zoosk.com
+IP-CIDR,5.28.195.2/32,no-resolve
