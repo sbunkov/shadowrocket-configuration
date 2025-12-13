@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-05
+# UPDATED: 2025-12-13
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1193,6 +1193,7 @@ DOMAIN-SUFFIX,spirit-of-metal.com
 DOMAIN-SUFFIX,spitfireaudio.com
 DOMAIN-SUFFIX,splunk.com
 DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,spotidownloader.com
 DOMAIN-SUFFIX,spreadthesign.com
 DOMAIN-SUFFIX,sqlshack.com
 DOMAIN-SUFFIX,squadbustersgame.com
