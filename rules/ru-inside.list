@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-14
+# UPDATED: 2025-12-15
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1080,6 +1080,7 @@ DOMAIN-SUFFIX,realguide.com
 DOMAIN-SUFFIX,reallyniceimages.com
 DOMAIN-SUFFIX,rebates.jp
 DOMAIN-SUFFIX,recraft.ai
+DOMAIN-SUFFIX,rectangleapp.com
 DOMAIN-SUFFIX,reddxxx.com
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,redis.com
