@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-16
+# UPDATED: 2025-12-18
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1032,6 +1032,7 @@ DOMAIN-SUFFIX,principalrelocation.com
 DOMAIN-SUFFIX,privatekeys.pw
 DOMAIN-SUFFIX,prnt.sc
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,procamera-app.com
 DOMAIN-SUFFIX,prod.smassets.net
 DOMAIN-SUFFIX,proekt.media
 DOMAIN-SUFFIX,promods.net
