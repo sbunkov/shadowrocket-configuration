@@ -367,8 +367,6 @@ DOMAIN-SUFFIX,dating.com
 DOMAIN-SUFFIX,daz3d.com
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,delinea.com
 DOMAIN-SUFFIX,dell.com
@@ -543,7 +541,6 @@ DOMAIN-SUFFIX,geekyfuroshiki.com
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,genspark.ai
 DOMAIN-SUFFIX,gentlemencoders.com
@@ -1032,7 +1029,6 @@ DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,principalrelocation.com
 DOMAIN-SUFFIX,privatekeys.pw
 DOMAIN-SUFFIX,prnt.sc
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,procamera-app.com
 DOMAIN-SUFFIX,prod.smassets.net
 DOMAIN-SUFFIX,proekt.media
