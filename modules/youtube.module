@@ -1,5 +1,5 @@
 #!name=YouTube Premium
-#!desc=YouTube Ad Full blocker with PIP player
+#!desc=YouTube Ad Full Blocker With PIP Player
 #!arguments=blockUpload:true,blockImmersive:true,captionLang:off,lyricLang:ru,scriptExecutionEngine:auto,debug:false
 
 [Rule]
