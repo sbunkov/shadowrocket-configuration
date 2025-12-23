@@ -1,4 +1,3 @@
-#!url=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/modules/youtube.module
 #!name=YouTube Premium
 #!desc=YouTube Ad Full Blocker With PIP Player
 #!arguments=blockUpload:true,blockImmersive:true,captionLang:off,lyricLang:ru,scriptExecutionEngine:auto,debug:false
