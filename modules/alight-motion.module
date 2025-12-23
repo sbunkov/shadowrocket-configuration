@@ -4,3 +4,6 @@
 
 [Script]
 Alight Motion = type=http-response,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/alight-motion.json,pattern=^https:\/\/us-central1-alight-creative\.cloudfunctions\.net\/getAccountStatusAndLicenses,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
+
+[MITM]
+hostname = us-central1-alight-creative.cloudfunctions.net
