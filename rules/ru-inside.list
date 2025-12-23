@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-23
+# UPDATED: 2025-12-24
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1409,6 +1409,7 @@ DOMAIN-SUFFIX,vpnpay.io
 DOMAIN-SUFFIX,vpnunlimited.com
 DOMAIN-SUFFIX,vps.today
 DOMAIN-SUFFIX,vrv.co
+DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vscode-auth.github.com
 DOMAIN-SUFFIX,vyos.io
 DOMAIN-SUFFIX,w.atwiki.jp
