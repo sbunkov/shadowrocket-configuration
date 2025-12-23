@@ -7,25 +7,19 @@ AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
 AND,((DOMAIN,youtubei.googleapis.com), (PROTOCOL,UDP)),REJECT
 
 [Map Local]
-^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad data-type=text data="" status-code=502
+^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad data-type=text data="" status-code=200
+
+[URL Rewrite]
+^https?:\/\/[\w-]+\.googlevideo\.com\/(?!(dclk_video_ads|videoplayback\?)).+&oad _ reject-200
+# ======= Universal Ad Request ======= #
+^https?:\/\/(www|s)\.youtube\.com\/api\/stats\/ads _ reject-200
+^https?:\/\/(www|s)\.youtube\.com\/(pagead|ptracking) _ reject-200
+^https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adcontext _ reject-200
+# ======= General Video Ad request ======= #
+(^https?:\/\/[\w-]+\.googlevideo\.com\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 302
 
 [Script]
-youtube.response = type=http-response,pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch),requires-body=1,max-size=-1,binary-body-mode=1,engine={{{scriptExecutionEngine}}},script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/youtube.response.js,argument="{"lyricLang":"{{{lyricLang}}}","captionLang":"{{{captionLang}}}","blockUpload":{{{blockUpload}}},"blockImmersive":{{{blockImmersive}}},"debug":{{{debug}}}}"
+youtube.response = type=http-response,pattern=^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$,requires-body=1,max-size=-1,binary-body-mode=1,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/youtube.response.js,argument="{"lyricLang":"{{{lyricLang}}}","captionLang":"{{{captionLang}}}","blockUpload":"{{{blockUpload}}}","blockImmersive":"{{{blockImmersive}}}","blockShorts":"{{{blockShorts}}}","debug":"{{{debug}}}"}"
 
 [MITM]
 hostname = %APPEND% *.googlevideo.com, youtubei.googleapis.com
-
-[URL Rewrite]
-(^https?:\/\/.+\.googlevideo\.com\/.+)(&ctier=[A-Z])(&.+) $1$3 302
-^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad _ REJECT-IMG
-https?:\/\/.+\.googlevideo\.com\/.+&oad reject header
-https?:\/\/.+\.googlevideo\.com\/ptracking\?pltype=adhost reject header
-https?:\/\/.+\.youtube\.com\/api\/stats\/.+adformat reject header
-https?:\/\/.+\.youtube\.com\/api\/stats\/ads reject header
-https?:\/\/.+\.youtube\.com\/get_midroll reject header
-https?:\/\/.+\.youtube\.com\/pagead\/ reject header
-https?:\/\/.+\.youtube\.com\/ptracking\? reject header
-https?:\/\/m\.youtube\.com\/_get_ads reject header
-https?:\/\/pagead2\.googlesyndication\.com\/pagead\/ reject header
-https?:\/\/s\.youtube\.com\/api\/stats\/watchtime?adformat reject header
-https?:\/\/youtubei\.googleapis\.com/.+ad_break reject header
