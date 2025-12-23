@@ -1,8 +1,0 @@
-#!name=djay Pro
-#!desc=djay Pro
-
-[Script]
-djay = type=http-response,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/djay.json,pattern=^https:\/\/app\.algoriddim\.com\/api\/v1\/validate-receipt,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
-
-[MITM]
-hostname = app.algoriddim.com
