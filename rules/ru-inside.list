@@ -1494,4 +1494,4 @@ DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zombie-film.live
 DOMAIN-SUFFIX,zoosk.com
-IP-CIDR,5.28.195.2/32,no-resolve
+IP-CIDR,5.28.195.0/32,no-resolve
