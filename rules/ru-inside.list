@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-25
+# UPDATED: 2025-12-26
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -853,6 +853,7 @@ DOMAIN-SUFFIX,maximintegrated.com
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,mbed.com
 DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,mdblist.com
 DOMAIN-SUFFIX,mediadecathlon.com
 DOMAIN-SUFFIX,medicalnewstoday.com
 DOMAIN-SUFFIX,medium.com
