@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-26
+# UPDATED: 2025-12-27
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,beeg.com
 DOMAIN-SUFFIX,bell-sw.com
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,betterttv.net
+DOMAIN-SUFFIX,bhphotovideo.com
 DOMAIN-SUFFIX,bigstockphoto.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bitcoin.org
