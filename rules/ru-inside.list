@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-28
+# UPDATED: 2025-12-29
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -463,6 +463,7 @@ DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,equalitie.org
 DOMAIN-SUFFIX,erogen.org
+DOMAIN-SUFFIX,esimdb.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,everand.com
