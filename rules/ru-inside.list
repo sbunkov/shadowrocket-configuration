@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2025-12-29
+# UPDATED: 2025-12-30
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,app.langdock.com
 DOMAIN-SUFFIX,app.n8n.cloud
 DOMAIN-SUFFIX,appahead.studio
 DOMAIN-SUFFIX,appgineers.de
+DOMAIN-SUFFIX,apphousekitchen.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
