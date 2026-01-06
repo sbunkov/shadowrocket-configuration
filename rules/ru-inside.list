@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-01-05
+# UPDATED: 2026-01-06
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -442,6 +442,7 @@ DOMAIN-SUFFIX,eaglecreek.com
 DOMAIN-SUFFIX,easydmarc.com
 DOMAIN-SUFFIX,easyjet.com
 DOMAIN-SUFFIX,ebates.com
+DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ecs.office.com
 DOMAIN-SUFFIX,eddiebauer.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
