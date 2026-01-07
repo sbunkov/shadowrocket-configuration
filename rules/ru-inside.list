@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-01-06
+# UPDATED: 2026-01-07
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -582,7 +582,6 @@ DOMAIN-SUFFIX,getyourmap.com
 DOMAIN-SUFFIX,gfn.am
 DOMAIN-SUFFIX,ghidra-sre.org
 DOMAIN-SUFFIX,ghostrc.game.idtech.services
-DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gl-inet.com
@@ -1298,7 +1297,6 @@ DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,tableausoftware.com
 DOMAIN-SUFFIX,tableauusercontent.com
 DOMAIN-SUFFIX,taboola.com
-DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,talktext.io
 DOMAIN-SUFFIX,talosintelligence.com
 DOMAIN-SUFFIX,taplink.cc
