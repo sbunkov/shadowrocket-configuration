@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-01-07
+# UPDATED: 2026-01-09
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -510,6 +510,7 @@ DOMAIN-SUFFIX,firefly-ps.adobe.io
 DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,first-root.com
 DOMAIN-SUFFIX,flashscore.com
+DOMAIN-SUFFIX,flightradar24.com
 DOMAIN-SUFFIX,flightyapp.com
 DOMAIN-SUFFIX,flir.com
 DOMAIN-SUFFIX,flir.eu
