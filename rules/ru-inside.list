@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-01-09
+# UPDATED: 2026-01-26
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -999,6 +999,7 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,orbit-games.com
 DOMAIN-SUFFIX,origin-tracker.githubusercontent.com
+DOMAIN-SUFFIX,osprey.com
 DOMAIN-SUFFIX,ott-play.com
 DOMAIN-SUFFIX,ottbill.cc
 DOMAIN-SUFFIX,ottg.app
