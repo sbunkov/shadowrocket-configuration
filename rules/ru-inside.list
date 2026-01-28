@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-01-27
+# UPDATED: 2026-01-28
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1360,6 +1360,7 @@ DOMAIN-SUFFIX,trahkino.me
 DOMAIN-SUFFIX,trailblazer.me
 DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,transmissionbt.com
 DOMAIN-SUFFIX,trellix.com
 DOMAIN-SUFFIX,tria.ge
 DOMAIN-SUFFIX,triongames.com
