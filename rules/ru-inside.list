@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-01-28
+# UPDATED: 2026-02-01
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1414,7 +1414,7 @@ DOMAIN-SUFFIX,uptimerobot.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,usatoday.com
 DOMAIN-SUFFIX,user.auth.xboxlive.com
-DOMAIN-SUFFIX,usher.ttvnw.net
+DOMAIN-SUFFIX,userway.org
 DOMAIN-SUFFIX,v2rayse.com
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,valhalla-age.org
