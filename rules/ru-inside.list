@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-03
+# UPDATED: 2026-02-05
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -214,6 +214,7 @@ DOMAIN-SUFFIX,avast.com
 DOMAIN-SUFFIX,avast.ru
 DOMAIN-SUFFIX,avcdn.net
 DOMAIN-SUFFIX,avira.com
+DOMAIN-SUFFIX,awehunt.com
 DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,aws.tcljd.com
