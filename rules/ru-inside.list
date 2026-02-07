@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-06
+# UPDATED: 2026-02-07
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1342,6 +1342,7 @@ DOMAIN-SUFFIX,thesassway.com
 DOMAIN-SUFFIX,thetvapp.to
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,thinkpads.com
+DOMAIN-SUFFIX,thisisdistorted.com
 DOMAIN-SUFFIX,thomas-krenn.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,threema.ch
