@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-07
+# UPDATED: 2026-02-08
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -735,6 +735,7 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetphotos.com
 DOMAIN-SUFFIX,jetstar.com
 DOMAIN-SUFFIX,joesandbox.com
+DOMAIN-SUFFIX,jonnymelon.com
 DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,junodownload.com
