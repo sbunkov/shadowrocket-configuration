@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-08
+# UPDATED: 2026-02-10
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -584,6 +584,7 @@ DOMAIN-SUFFIX,geospy.ai
 DOMAIN-SUFFIX,getoutline.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getsafeonline.org
+DOMAIN-SUFFIX,getyourmap.cc
 DOMAIN-SUFFIX,getyourmap.com
 DOMAIN-SUFFIX,gfn.am
 DOMAIN-SUFFIX,ghidra-sre.org
