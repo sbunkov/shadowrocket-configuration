@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-10
+# UPDATED: 2026-02-11
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -694,6 +694,7 @@ DOMAIN-SUFFIX,imazing.com
 DOMAIN-SUFFIX,imgpng.ru
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,immich.app
+DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,imx.to
 DOMAIN-SUFFIX,indeed.com
 DOMAIN-SUFFIX,indiehackers.com
@@ -1326,6 +1327,7 @@ DOMAIN-SUFFIX,teads.tv
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,techbargains.com
 DOMAIN-SUFFIX,techfixpro.net
+DOMAIN-SUFFIX,technicalustad.com
 DOMAIN-SUFFIX,techthoughts.info
 DOMAIN-SUFFIX,telemetr.io
 DOMAIN-SUFFIX,templatemonster.com
