@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-11
+# UPDATED: 2026-02-12
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -528,6 +528,7 @@ DOMAIN-SUFFIX,flukenetworks.com
 DOMAIN-SUFFIX,flyertalk.com
 DOMAIN-SUFFIX,fncstatic.com
 DOMAIN-SUFFIX,folivora.ai
+DOMAIN-SUFFIX,followsback.com
 DOMAIN-SUFFIX,footballapi.pulselive.com
 DOMAIN-SUFFIX,force-user-content.com
 DOMAIN-SUFFIX,force.com
