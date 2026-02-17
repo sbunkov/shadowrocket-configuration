@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-12
+# UPDATED: 2026-02-17
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1516,6 +1516,7 @@ DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,xmg.gg
+DOMAIN-SUFFIX,xreal.com
 DOMAIN-SUFFIX,xrite.com
 DOMAIN-SUFFIX,xsts.auth.xboxlive.com
 DOMAIN-SUFFIX,xv-ru.com
