@@ -131,6 +131,10 @@ DOMAIN-SUFFIX,airjuan.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aitestkitchen.withgoogle.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,akamaitechnologies.com
 DOMAIN-SUFFIX,akasaair.com
 DOMAIN-SUFFIX,alberta.ca
 DOMAIN-SUFFIX,algolia.com
@@ -357,6 +361,7 @@ DOMAIN-SUFFIX,coldfilm.xyz
 DOMAIN-SUFFIX,comfyui-wiki.com
 DOMAIN-SUFFIX,composer.opera-api.com
 DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,constant.com
 DOMAIN-SUFFIX,contabo.com
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copernicus.eu
@@ -455,6 +460,8 @@ DOMAIN-SUFFIX,ecs.office.com
 DOMAIN-SUFFIX,eddiebauer.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
 DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,edu-cisco.org
 DOMAIN-SUFFIX,edx.org
@@ -691,9 +698,9 @@ DOMAIN-SUFFIX,ikissvk.com
 DOMAIN-SUFFIX,illuminate.google.com
 DOMAIN-SUFFIX,ilook.tv
 DOMAIN-SUFFIX,image.tmdb.org
-DOMAIN-SUFFIX,imagetmdb.com
 DOMAIN-SUFFIX,imagecache365.com
 DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,imagetmdb.com
 DOMAIN-SUFFIX,imazing.com
 DOMAIN-SUFFIX,imgpng.ru
 DOMAIN-SUFFIX,imgur.com
@@ -1002,6 +1009,7 @@ DOMAIN-SUFFIX,onetapapp.co
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,onfastspring.com
 DOMAIN-SUFFIX,onionmail.org
+DOMAIN-SUFFIX,online.net
 DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,onshape.com
@@ -1015,6 +1023,7 @@ DOMAIN-SUFFIX,openweathermap.org
 DOMAIN-SUFFIX,opus.pro
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oraclegovcloud.com
 DOMAIN-SUFFIX,orbit-games.com
 DOMAIN-SUFFIX,origin-tracker.githubusercontent.com
 DOMAIN-SUFFIX,osprey.com
@@ -1087,8 +1096,8 @@ DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,politico.eu
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,popclip.app
-DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porkbun.com
+DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,porno666.link
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,postfix.org
@@ -1201,6 +1210,7 @@ DOMAIN-SUFFIX,satsat.info
 DOMAIN-SUFFIX,saveeditonline.com
 DOMAIN-SUFFIX,saverudata.net
 DOMAIN-SUFFIX,sbom.sh
+DOMAIN-SUFFIX,scaleway.com
 DOMAIN-SUFFIX,scam-detector.com
 DOMAIN-SUFFIX,schenker-tech.de
 DOMAIN-SUFFIX,scribd.com
@@ -1299,8 +1309,8 @@ DOMAIN-SUFFIX,stream.voidboost.cc
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,strem.io
 DOMAIN-SUFFIX,strem.top
-DOMAIN-SUFFIX,stremio.com
 DOMAIN-SUFFIX,stremio-addons.net
+DOMAIN-SUFFIX,stremio.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,studychat.app
 DOMAIN-SUFFIX,stuff.co.nz
@@ -1473,6 +1483,7 @@ DOMAIN-SUFFIX,vps.today
 DOMAIN-SUFFIX,vrv.co
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vscode-auth.github.com
+DOMAIN-SUFFIX,vultr.com
 DOMAIN-SUFFIX,vyos.io
 DOMAIN-SUFFIX,w.atwiki.jp
 DOMAIN-SUFFIX,walmart.com
