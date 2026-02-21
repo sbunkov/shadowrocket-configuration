@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-17
+# UPDATED: 2026-02-21
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -768,6 +768,7 @@ DOMAIN-SUFFIX,kinobase.org
 DOMAIN-SUFFIX,kinokopilka.pro
 DOMAIN-SUFFIX,kinokrad.pics
 DOMAIN-SUFFIX,kinopub.me
+DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kinovod.net
 DOMAIN-SUFFIX,kinozaltv.life
 DOMAIN-SUFFIX,kismia.com
