@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-02-21
+# UPDATED: 2026-02-22
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,4pna.com
 DOMAIN-SUFFIX,5sim.net
 DOMAIN-SUFFIX,6pm.com
 DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,8bitdo.com
 DOMAIN-SUFFIX,8chan.moe
 DOMAIN-SUFFIX,91mobiles.com
 DOMAIN-SUFFIX,a-msedge.net
