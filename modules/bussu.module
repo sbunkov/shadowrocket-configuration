@@ -1,8 +1,0 @@
-#!name=Busuu Premium 
-#!desc=Busuu Premium
-
-[Script]
-bussu = type=http-response,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/bussu.js,pattern=^https:\/\/api\.busuu\.com\/users\/me,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
-
-[MITM]
-hostname = %APPEND% api.busuu.com
