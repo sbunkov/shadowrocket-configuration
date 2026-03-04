@@ -1,6 +1,6 @@
 #!name=YouTube Premium
 #!desc=YouTube Ad Full Blocker With PIP Player
-#!arguments=blockUpload:true,blockImmersive:true,captionLang:off,lyricLang:ru,scriptExecutionEngine:auto,debug:false
+#!arguments=blockUpload:true,blockImmersive:true,captionLang:off,lyricLang:ru,scriptExecutionEngine:auto,debug:false,blockShorts:true
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
