@@ -1,8 +1,14 @@
-#!name=VLLO Pro
-#!desc=VLLO Pro
+#!name=VLLO Pro Unlock
+#!desc=MITM для VLLO Pro подписки (полный)
 
 [Script]
 vllo = type=http-response,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/vllo.js,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
 
 [MITM]
-hostname = %APPEND% buy.itunes.apple.com
+hostname = %APPEND% buy.itunes.apple.com, *.vimosoft.com, api.vllo.io, *.vllo.io, *.vimo.com
+
+#[Script]
+#vllo = type=http-response,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/vllo.js,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,max-size=131072,requires-body=true,timeout=10,script-update-interval=0,enable=true
+
+#[MITM]
+#hostname = %APPEND% buy.itunes.apple.com
