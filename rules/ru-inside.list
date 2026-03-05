@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-03-02
+# UPDATED: 2026-03-05
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,adventuregen.ai
 DOMAIN-SUFFIX,affinity.studio
 DOMAIN-SUFFIX,afp.com
 DOMAIN-SUFFIX,aftermarket.schaeffler.com
@@ -1018,6 +1019,7 @@ DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,onshape.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openculture.com
+DOMAIN-SUFFIX,opencut.app
 DOMAIN-SUFFIX,opensanctions.org
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opentext.com
@@ -1046,6 +1048,7 @@ DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,paraswap.io
 DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,parts-express.com
+DOMAIN-SUFFIX,passportphotosnap.com
 DOMAIN-SUFFIX,patagonia.com
 DOMAIN-SUFFIX,patagonia.com.hk
 DOMAIN-SUFFIX,path3.xtracloud.net
@@ -1134,6 +1137,7 @@ DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,qualcomm.com
 DOMAIN-SUFFIX,quicknode.com
 DOMAIN-SUFFIX,quietpc.com
+DOMAIN-SUFFIX,quiver.ai
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,qwant.com
 DOMAIN-SUFFIX,r10.to
@@ -1247,6 +1251,7 @@ DOMAIN-SUFFIX,shiksha.com
 DOMAIN-SUFFIX,shiksha.ws
 DOMAIN-SUFFIX,shiza-project.com
 DOMAIN-SUFFIX,shop.paragon-software.com
+DOMAIN-SUFFIX,shotva.com
 DOMAIN-SUFFIX,showtime.co.jp
 DOMAIN-SUFFIX,siemens.com
 DOMAIN-SUFFIX,signal.org
@@ -1279,6 +1284,7 @@ DOMAIN-SUFFIX,snyk.io
 DOMAIN-SUFFIX,soapui.org
 DOMAIN-SUFFIX,softpedia.com
 DOMAIN-SUFFIX,solarwinds.com
+DOMAIN-SUFFIX,sonauto.ai
 DOMAIN-SUFFIX,sophos.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,soundcloud.com
