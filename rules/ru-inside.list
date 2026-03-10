@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-03-05
+# UPDATED: 2026-03-10
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -1285,6 +1285,7 @@ DOMAIN-SUFFIX,soapui.org
 DOMAIN-SUFFIX,softpedia.com
 DOMAIN-SUFFIX,solarwinds.com
 DOMAIN-SUFFIX,sonauto.ai
+DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sophos.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,soundcloud.com
