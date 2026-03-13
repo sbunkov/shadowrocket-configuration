@@ -20,7 +20,6 @@ https?:\/\/.+\.youtube\.com\/pagead\/ reject header
 https?:\/\/m\.youtube\.com\/_get_ads reject header
 https?:\/\/pagead2\.googlesyndication\.com\/pagead\/ reject header
 https?:\/\/s\.youtube\.com\/api\/stats\/watchtime?adformat reject header
-https?:\/\/s\.youtube\.com\/api\/stats\/watchtime\?adformat reject header
 https?:\/\/youtubei\.googleapis\.com/.+ad_break reject header
 
 [Script]
