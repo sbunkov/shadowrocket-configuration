@@ -4,8 +4,9 @@
 # 1. On the search page — playlists/songs can be switched and played fully.
 # 2. In the music library — liked songs can be switched and played fully.
 
-[MITM]
-hostname = %APPEND% spclient.wg.spotify.com
-
 [Script]
 spotify-proto = type=http-response,pattern=^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$,requires-body=1,binary-body-mode=1,max-size=0,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify.js,script-update-interval=0
+spotify-json = type=http-request,pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/,requires-body=0,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify-json.js
+
+[MITM]
+hostname = %APPEND% spclient.wg.spotify.com, *.spclient.spotify.com
