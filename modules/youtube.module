@@ -1,5 +1,5 @@
 #!name=YouTube Premium
-#!desc=YouTube Ads & Shorts Blocker with PIP Player
+#!desc=YouTube Ads & Shorts Blocker with PIP
 #!arguments=blockUpload:true,blockImmersive:true,blockShorts:true,captionLang:off,lyricLang:ru,scriptExecutionEngine:auto,debug:false
 
 [Rule]
