@@ -1,0 +1,8 @@
+#!name=Truecaller Premium
+#!desc=Truecaller Premium
+
+[Script]
+truecaller = type=http-response,pattern=^https://premium-(.+)\.truecaller\.com/v\d/(subscriptions|products/apple),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/truecaller.js
+
+[MITM]
+hostname = %APPEND% premium*.truecaller.com
