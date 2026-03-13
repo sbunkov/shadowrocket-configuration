@@ -1,0 +1,8 @@
+#!name=Wink VIP
+#!desc=Wink Premium Unlock
+
+[Script]
+wink = type=http-response,pattern=^https?:\/\/api-sub\.meitu\.com\/v2\/user\/vip_info_by_group\.json,requires-body=true,script-path=https://raw.githubusercontent.com/quocchienn/co_tien_khong/refs/heads/Module/WinkVipCrack.js,timeout=10,script-update-interval=0,enable=true
+
+[MITM]
+hostname = %APPEND% api-sub.meitu.com
