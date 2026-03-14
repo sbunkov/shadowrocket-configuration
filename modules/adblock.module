@@ -6,3 +6,11 @@ DOMAIN-SET,https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/ult
 RULE-SET,https://big.oisd.nl/surge.list,REJECT
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list,REJECT
 DOMAIN-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising_Domain.list,REJECT
+
+# Reddit Ad Blocker
+[Script]
+reddit=type=http-response,pattern=^https?:\/\/gql-fed\.reddit\.com\/$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/reddit.js
+
+# Reddit Ad Blocker
+[MITM]
+hostname = %APPEND% gql-fed.reddit.com
