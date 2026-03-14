@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-03-10
+# UPDATED: 2026-03-15
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -33,6 +33,8 @@ DOMAIN-KEYWORD,home-connect
 DOMAIN-KEYWORD,ikea
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,intel
+DOMAIN-KEYWORD,jac
+DOMAIN-KEYWORD,jacred
 DOMAIN-KEYWORD,jetbrains
 DOMAIN-KEYWORD,kahoot
 DOMAIN-KEYWORD,kinogo
@@ -746,6 +748,8 @@ DOMAIN-SUFFIX,it-actual.ru
 DOMAIN-SUFFIX,it-tehnik.ru
 DOMAIN-SUFFIX,itninja.com
 DOMAIN-SUFFIX,jabra.com
+DOMAIN-SUFFIX,jac.red
+DOMAIN-SUFFIX,jacred.pro
 DOMAIN-SUFFIX,jacred.xyz
 DOMAIN-SUFFIX,jamf.com
 DOMAIN-SUFFIX,jbl.com
