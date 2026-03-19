@@ -1,14 +1,31 @@
 #!name=Spotify Premium
 #!desc=Spotify Premium
-# For Spotify app <=9.1.12. Login, then open the script, restart the app, and wait for the script to take effect.
-#1. Removes ad playback; 2. Artist/album lists display normally; 3. Removes shuffle playback.
+# Premium unlock (track selection, album view) + full removal of ads and trackers.
+
+[Header Rewrite]
+# Fixing the caching issue (304) so Premium doesn't "drop off"
+^https?:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com)\/user-customization-service\/v1\/customize header-del if-none-match
+
+[Rule]
+# Blocking ad servers and analytics (saves traffic and battery)
+DOMAIN, ads-fa.spotify.com, REJECT
+DOMAIN, ads-ak-spotify-com.akamaized.net, REJECT
+DOMAIN, analytics.spotify.com, REJECT
+DOMAIN, crashdump.spotify.com, REJECT
+DOMAIN, log.spotify.com, REJECT
+DOMAIN-KEYWORD, ads-ak-ent, REJECT
+DOMAIN-KEYWORD, -ad-logic, REJECT
+
+# Removing requests for ad insertions within the interface
+^https?:\/\/spclient\.wg\.spotify\.com\/ad-logic\/ - reject
+^https?:\/\/spclient\.wg\.spotify\.com\/ads\/ - reject
 
 [Script]
-spotify-qx-header = type=http-request, pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/user-customization-service\/v1\/customize$, script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify-qx-header.js, timeout=60
+# 1. Unlocking the artists and albums interface (JSON)
+spotify-json = type=http-request, pattern=^https?:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/, requires-body=0, script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify-json.js, timeout=10
 
-spotify-proto = type=http-response, pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$, script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify-proto.js, requires-body=true, binary-body-mode=true, max-size=-1, timeout=60
-
-spotify-json = type=http-request, pattern=^https:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com(:443)?)\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/, script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify-json.js, timeout=60
+# 2. Activating Premium features via Protobuf
+spotify-proto = type=http-response, pattern=^https?:\/\/(spclient\.wg\.spotify\.com|.*-spclient\.spotify\.com)\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$, requires-body=1, binary-body-mode=1, max-size=0, script-path=https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/main/scripts/spotify-proto.js, script-update-interval=0
 
 [MITM]
-hostname = %APPEND% spclient.wg.spotify.com, *spclient.spotify.com
+hostname = %APPEND% spclient.wg.spotify.com, *spclient.spotify.com, *-spclient.spotify.com, spclient.wg.spotify.com, *-spclient.spotify.com
