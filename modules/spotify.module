@@ -1,6 +1,6 @@
 #!name=Spotify Premium
 #!desc=Spotify Premium
-# For Spotify app < v9.1.12. Login, then open the script, restart the app, and wait for the script to take effect.
+# For Spotify app <=9.1.12. Login, then open the script, restart the app, and wait for the script to take effect.
 #1. Removes ad playback; 2. Artist/album lists display normally; 3. Removes shuffle playback.
 
 [Script]
