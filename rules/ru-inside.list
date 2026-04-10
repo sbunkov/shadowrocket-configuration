@@ -608,8 +608,6 @@ DOMAIN-SUFFIX,getyourmap.com
 DOMAIN-SUFFIX,gfn.am
 DOMAIN-SUFFIX,ghidra-sre.org
 DOMAIN-SUFFIX,ghostrc.game.idtech.services
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,gl-inet.com
@@ -1033,7 +1031,6 @@ DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,opentext.com
 DOMAIN-SUFFIX,opentrackr.org
 DOMAIN-SUFFIX,openweathermap.org
-DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,opus.pro
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
