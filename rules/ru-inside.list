@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-09
+# UPDATED: 2026-04-11
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -202,6 +202,8 @@ DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX,appleinsider.com
 DOMAIN-SUFFIX,appraven.net
 DOMAIN-SUFFIX,apps.deals
+DOMAIN-SUFFIX,aqara.cn
+DOMAIN-SUFFIX,aqara.com
 DOMAIN-SUFFIX,aqicn.org
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.org
