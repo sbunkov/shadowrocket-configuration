@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-11
+# UPDATED: 2026-04-12
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,alberta.ca
 DOMAIN-SUFFIX,algolia.com
 DOMAIN-SUFFIX,algoriddim.com
 DOMAIN-SUFFIX,alienwarearena.com
+DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alltrails.com
 DOMAIN-SUFFIX,alphacoders.com
@@ -1145,6 +1146,7 @@ DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,qualcomm.com
 DOMAIN-SUFFIX,quicknode.com
 DOMAIN-SUFFIX,quietpc.com
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,quiver.ai
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,qwant.com
