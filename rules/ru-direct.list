@@ -1,1 +1,14 @@
-
+# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
+# UPDATED: 2026-04-18
+DOMAIN-KEYWORD,2gis
+DOMAIN-KEYWORD,alibaba
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,ozon
+DOMAIN-KEYWORD,tao
+DOMAIN-KEYWORD,taobao
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozonusercontent.com
