@@ -1,3 +1,5 @@
+# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
+# UPDATED: 2026-04-24
 DOMAIN-SUFFIX,api.imem.app
 DOMAIN-SUFFIX,api.swiftgram.app
 DOMAIN-SUFFIX,cdn-telegram.org
