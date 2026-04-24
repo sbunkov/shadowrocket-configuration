@@ -1,3 +1,5 @@
+# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
+# UPDATED: 2026-04-24
 DOMAIN-SUFFIX,aiot-cloud.aqara.com
 DOMAIN-SUFFIX,aiot-coap.aqara.com
 DOMAIN-SUFFIX,aiot-rpc.aqara.com
