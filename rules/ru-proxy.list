@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-24
+# UPDATED: 2026-04-25
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,acestream
 DOMAIN-KEYWORD,airbnb
@@ -238,6 +238,7 @@ DOMAIN-SUFFIX,api.jetbrains.ai
 DOMAIN-SUFFIX,api.service-kp.com
 DOMAIN-SUFFIX,api.theins.info
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
 DOMAIN-SUFFIX,api.wfmp.net
 DOMAIN-SUFFIX,api2.support-kp.com
 DOMAIN-SUFFIX,apiary.io
