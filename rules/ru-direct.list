@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-24
+# UPDATED: 2026-04-25
 DOMAIN-KEYWORD,2gis
 DOMAIN-KEYWORD,2ip
 DOMAIN-KEYWORD,alibaba
@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,aliexpress
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,aviasales
 DOMAIN-KEYWORD,avito
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,ozon
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,aliexpress.ru
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,aviasales.com
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 DOMAIN-SUFFIX,baidu.com
