@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-27
+# UPDATED: 2026-04-28
 DOMAIN-KEYWORD,3dlutcreator
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,7tv
@@ -456,8 +456,6 @@ DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,cline.bot
 DOMAIN-SUFFIX,clip.opus.pro
 DOMAIN-SUFFIX,cloudex.cc
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudns.net
@@ -1345,6 +1343,7 @@ DOMAIN-SUFFIX,ottbill.cc
 DOMAIN-SUFFIX,ottg.app
 DOMAIN-SUFFIX,outflank.nl
 DOMAIN-SUFFIX,ovh.ie
+DOMAIN-SUFFIX,ovhcloud.com
 DOMAIN-SUFFIX,owlto.finance
 DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,paddle.com
