@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-26
+# UPDATED: 2026-04-27
 DOMAIN-KEYWORD,3dlutcreator
 DOMAIN-KEYWORD,4pda
 DOMAIN-KEYWORD,7tv
@@ -2092,3 +2092,4 @@ DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,zetalliance.org
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zombie-film.live
+IP-CIDR,100.64.0.0/10
