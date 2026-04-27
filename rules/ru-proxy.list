@@ -196,13 +196,10 @@ DOMAIN-SUFFIX,agents.media
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,ahrefs.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,airbrake.io
 DOMAIN-SUFFIX,airbuddy.app
 DOMAIN-SUFFIX,aircanada.com
 DOMAIN-SUFFIX,airjuan.com
-DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ajay.app
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamai.net
@@ -218,6 +215,7 @@ DOMAIN-SUFFIX,alienwarearena.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,all3dp.com
+DOMAIN-SUFFIX,allarknow.online
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alltrails.com
 DOMAIN-SUFFIX,alphacoders.com
@@ -262,10 +260,6 @@ DOMAIN-SUFFIX,annas-archive.gl
 DOMAIN-SUFFIX,ansible.com
 DOMAIN-SUFFIX,ansys.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,antigravity-pa.googleapis.com
-DOMAIN-SUFFIX,antigravity-unleash.goog
-DOMAIN-SUFFIX,antigravity.google
-DOMAIN-SUFFIX,antigravity.googleapis.com
 DOMAIN-SUFFIX,any.do
 DOMAIN-SUFFIX,anybox.ltd
 DOMAIN-SUFFIX,anydesk.com
@@ -320,7 +314,6 @@ DOMAIN-SUFFIX,baginya.org
 DOMAIN-SUFFIX,baikal-journal.ru
 DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bandsintown.com
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bato.to
 DOMAIN-SUFFIX,bcbits.com
 DOMAIN-SUFFIX,beacon3d.com
@@ -452,7 +445,6 @@ DOMAIN-SUFFIX,cleverbridge.com
 DOMAIN-SUFFIX,clickocean.io
 DOMAIN-SUFFIX,clickup-attachments.com
 DOMAIN-SUFFIX,clickup.com
-DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,cline.bot
 DOMAIN-SUFFIX,clip.opus.pro
 DOMAIN-SUFFIX,cloudex.cc
@@ -522,8 +514,6 @@ DOMAIN-SUFFIX,daz3d.com
 DOMAIN-SUFFIX,deckbrew.xyz
 DOMAIN-SUFFIX,decrypt.day
 DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,deepstatemap.live
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,delinea.com
@@ -665,7 +655,6 @@ DOMAIN-SUFFIX,fast-torrent.club
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastflux.ai
 DOMAIN-SUFFIX,fastspring.com
-DOMAIN-SUFFIX,fat.allarknow.online
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fburl.com
@@ -681,8 +670,6 @@ DOMAIN-SUFFIX,files.manus.cdn
 DOMAIN-SUFFIX,filmitorrent.net
 DOMAIN-SUFFIX,findagrave.com
 DOMAIN-SUFFIX,finevpn.org
-DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
-DOMAIN-SUFFIX,firefly.adobe.com
 DOMAIN-SUFFIX,first-root.com
 DOMAIN-SUFFIX,fivetran.com
 DOMAIN-SUFFIX,flashscore.com
@@ -752,11 +739,6 @@ DOMAIN-SUFFIX,geekbench.com
 DOMAIN-SUFFIX,geekyfuroshiki.com
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gelbooru.com
-DOMAIN-SUFFIX,geller-pa.googleapis.com
-DOMAIN-SUFFIX,gemini.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,genspark.ai
@@ -790,7 +772,6 @@ DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gonift.com
 DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
-DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,gopro.com
 DOMAIN-SUFFIX,gov.in
@@ -948,14 +929,11 @@ DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,jetphotos.com
 DOMAIN-SUFFIX,jetstar.com
 DOMAIN-SUFFIX,jinxxy.com
-DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,joesandbox.com
 DOMAIN-SUFFIX,joeysretrohandhelds.com
 DOMAIN-SUFFIX,jonnymelon.com
 DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,js.org
-DOMAIN-SUFFIX,jules.google
-DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,junodownload.com
 DOMAIN-SUFFIX,jut-su.net
 DOMAIN-SUFFIX,jut.su
@@ -1011,11 +989,9 @@ DOMAIN-SUFFIX,ksd-images.lt
 DOMAIN-SUFFIX,kupujemprodajem.com
 DOMAIN-SUFFIX,kym-cdn.com
 DOMAIN-SUFFIX,kyoceradocumentsolutions.com
-DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,lakelandford.com
 DOMAIN-SUFFIX,lambdalabs.com
 DOMAIN-SUFFIX,lamcdn.net
-DOMAIN-SUFFIX,lampa.mx
 DOMAIN-SUFFIX,lampa.stream
 DOMAIN-SUFFIX,landingpad.me
 DOMAIN-SUFFIX,langdock.com
@@ -1108,7 +1084,6 @@ DOMAIN-SUFFIX,mailfence.com
 DOMAIN-SUFFIX,mailinator.com
 DOMAIN-SUFFIX,mailo.com
 DOMAIN-SUFFIX,make.com
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,malwarebytes.com
 DOMAIN-SUFFIX,mangadex.org
 DOMAIN-SUFFIX,mangahub.ru
@@ -1269,8 +1244,6 @@ DOMAIN-SUFFIX,nordprotect.com
 DOMAIN-SUFFIX,nordstellar.com
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,norton.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,notionusercontent.com
@@ -1446,7 +1419,6 @@ DOMAIN-SUFFIX,primevue.org
 DOMAIN-SUFFIX,principalrelocation.com
 DOMAIN-SUFFIX,privatekeys.pw
 DOMAIN-SUFFIX,prnt.sc
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,procamera-app.com
 DOMAIN-SUFFIX,prod-lt-playstoregatewayadapter-pa.googleapis.com
 DOMAIN-SUFFIX,proekt.media
@@ -1547,7 +1519,6 @@ DOMAIN-SUFFIX,riperam.org
 DOMAIN-SUFFIX,riseup.net
 DOMAIN-SUFFIX,rncdn7.com
 DOMAIN-SUFFIX,roar-review.com
-DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,robloxdev.com
 DOMAIN-SUFFIX,roborock.com
@@ -1716,7 +1687,6 @@ DOMAIN-SUFFIX,soundtoys.com
 DOMAIN-SUFFIX,sovetromantica.com
 DOMAIN-SUFFIX,spacelift.io
 DOMAIN-SUFFIX,spankbang.com
-DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,spektr.press
 DOMAIN-SUFFIX,spiceworks.com
