@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-28
+# UPDATED: 2026-04-29
 DOMAIN-KEYWORD,2gis
 DOMAIN-KEYWORD,2ip
 DOMAIN-KEYWORD,alibaba
@@ -356,6 +356,7 @@ DOMAIN-SUFFIX,psbank.ru
 DOMAIN-SUFFIX,pscb.ru
 DOMAIN-SUFFIX,pshb.ru
 DOMAIN-SUFFIX,pvubank.com
+DOMAIN-SUFFIX,pvvstream.pro
 DOMAIN-SUFFIX,qms.ru
 DOMAIN-SUFFIX,raif.ru
 DOMAIN-SUFFIX,raiffeisen.ru
