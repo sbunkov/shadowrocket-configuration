@@ -1,6 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # UPDATED: 2026-04-30
-DOMAIN-KEYWORD,2gis
 DOMAIN-KEYWORD,2ip
 DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alicdn
@@ -9,9 +8,7 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aviasales
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,sberbank
-DOMAIN-KEYWORD,t-bank-app
 DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,tinkoff
 DOMAIN-KEYWORD,vtb
 DOMAIN-SUFFIX,1cb.ru
 DOMAIN-SUFFIX,1erc.ru
@@ -426,6 +423,7 @@ DOMAIN-SUFFIX,srbank.ru
 DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN-SUFFIX,ssb35.ru
 DOMAIN-SUFFIX,svoi.ru
+DOMAIN-SUFFIX,t-bank-app.ru
 DOMAIN-SUFFIX,t-bank.ru
 DOMAIN-SUFFIX,t-static.ru
 DOMAIN-SUFFIX,t2.ru
@@ -438,6 +436,7 @@ DOMAIN-SUFFIX,tbank.ru
 DOMAIN-SUFFIX,teleportbank.ru
 DOMAIN-SUFFIX,thbank.ru
 DOMAIN-SUFFIX,timerbank.ru
+DOMAIN-SUFFIX,tinkoff.ru
 DOMAIN-SUFFIX,tinsurance.ru
 DOMAIN-SUFFIX,tkbbank.ru
 DOMAIN-SUFFIX,tkpb.ru
