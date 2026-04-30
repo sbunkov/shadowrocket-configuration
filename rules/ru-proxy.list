@@ -101,8 +101,6 @@ DOMAIN-KEYWORD,smartbear
 DOMAIN-KEYWORD,spiceworks
 DOMAIN-KEYWORD,tecalliance
 DOMAIN-KEYWORD,theins
-DOMAIN-KEYWORD,tiktok
-DOMAIN-KEYWORD,tiktokv
 DOMAIN-KEYWORD,timberland
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,ultradox
@@ -359,10 +357,6 @@ DOMAIN-SUFFIX,canva-apps.com
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canva.dev
 DOMAIN-SUFFIX,capacitorjs.com
-DOMAIN-SUFFIX,capcut.com
-DOMAIN-SUFFIX,capcutapi.com
-DOMAIN-SUFFIX,capcutstatic.com
-DOMAIN-SUFFIX,capcutvod.com
 DOMAIN-SUFFIX,carnegieendowment.org
 DOMAIN-SUFFIX,carrefouruae.com
 DOMAIN-SUFFIX,cartoonporn.to
@@ -815,7 +809,6 @@ DOMAIN-SUFFIX,hyundainews.com
 DOMAIN-SUFFIX,iaai.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibm.com
-DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,icd10data.com
 DOMAIN-SUFFIX,idelreal.org
 DOMAIN-SUFFIX,iditelesombase.org
@@ -1052,7 +1045,7 @@ DOMAIN-SUFFIX,markandgraham.com
 DOMAIN-SUFFIX,marvelsnap.com
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,matadorequipment.com
-DOMAIN-SUFFIX,matrix-client.matrix.org
+DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,mattermost.com
 DOMAIN-SUFFIX,mausformac.com
 DOMAIN-SUFFIX,max.com
@@ -1770,12 +1763,6 @@ DOMAIN-SUFFIX,threema.ch
 DOMAIN-SUFFIX,thule.com
 DOMAIN-SUFFIX,ti.com
 DOMAIN-SUFFIX,tidal.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-eu.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tile.com
 DOMAIN-SUFFIX,timberland.de
 DOMAIN-SUFFIX,time.com
