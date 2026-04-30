@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-29
+# UPDATED: 2026-04-30
 DOMAIN-KEYWORD,2gis
 DOMAIN-KEYWORD,2ip
 DOMAIN-KEYWORD,alibaba
@@ -20,7 +20,6 @@ DOMAIN-KEYWORD,wb
 DOMAIN-KEYWORD,wildberries
 DOMAIN-KEYWORD,ya
 DOMAIN-KEYWORD,yandex
-DOMAIN-SUFFIX,1018213540.rsc.cdn77.org
 DOMAIN-SUFFIX,1cb.ru
 DOMAIN-SUFFIX,1erc.ru
 DOMAIN-SUFFIX,2gis.com
@@ -492,7 +491,6 @@ DOMAIN-SUFFIX,wbpay.ru
 DOMAIN-SUFFIX,westernunion.ru
 DOMAIN-SUFFIX,wildpay.ru
 DOMAIN-SUFFIX,woori.ru
-DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yookassa.ru
 DOMAIN-SUFFIX,yoomoney.ru
@@ -502,24 +500,3 @@ DOMAIN-SUFFIX,zenit.ru
 DOMAIN-SUFFIX,zenitcard.ru
 DOMAIN-SUFFIX,zhivagobank.ru
 DOMAIN-SUFFIX,ziraatbank.ru
-DOMAIN-SUFFIX,агророс.рф
-DOMAIN-SUFFIX,банк-мскб.рф
-DOMAIN-SUFFIX,банк-развитие-столица.рф
-DOMAIN-SUFFIX,банкстоличныйкредит.рф
-DOMAIN-SUFFIX,вакобанк.рф
-DOMAIN-SUFFIX,донкомбанк.рф
-DOMAIN-SUFFIX,ипотека.рф
-DOMAIN-SUFFIX,кбстоличныйкредит.рф
-DOMAIN-SUFFIX,кубанкредит.рф
-DOMAIN-SUFFIX,кубань-кредит.net
-DOMAIN-SUFFIX,кубань-кредит.su
-DOMAIN-SUFFIX,кубанькредит.net
-DOMAIN-SUFFIX,кубанькредит.su
-DOMAIN-SUFFIX,кубанькредитбанк.рф
-DOMAIN-SUFFIX,локо-банк.рф
-DOMAIN-SUFFIX,локобанк.рф
-DOMAIN-SUFFIX,славиябанк.рф
-DOMAIN-SUFFIX,солидарностьбанк.рф
-DOMAIN-SUFFIX,хочуконтракт.рф
-DOMAIN-SUFFIX,хочукредит.рф
-DOMAIN-SUFFIX,челинвест.рф
