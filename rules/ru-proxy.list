@@ -1,7 +1,8 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-29
+# UPDATED: 2026-05.01
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
+DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,1001.tl
 DOMAIN-SUFFIX,1001tracklists.com
 DOMAIN-SUFFIX,10minutemail.com
@@ -1379,6 +1380,7 @@ DOMAIN-SUFFIX,onlineradiobox.com
 DOMAIN-SUFFIX,onlinesim.io
 DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,onshape.com
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,openculture.com
@@ -1415,6 +1417,7 @@ DOMAIN-SUFFIX,ovhcloud.com
 DOMAIN-SUFFIX,owlto.finance
 DOMAIN-SUFFIX,ozodi.org
 DOMAIN-SUFFIX,ozodlik.org
+DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,paddlestatus.com
 DOMAIN-SUFFIX,padi.com
@@ -1432,6 +1435,7 @@ DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,parallels.net
 DOMAIN-SUFFIX,parallelsaccess.com
+DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,paraswap.io
 DOMAIN-SUFFIX,paritydeals.com
 DOMAIN-SUFFIX,parsec.app
@@ -1855,6 +1859,8 @@ DOMAIN-SUFFIX,soundtoys.com
 DOMAIN-SUFFIX,sovetromantica.com
 DOMAIN-SUFFIX,spacelift.io
 DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,spektr.press
 DOMAIN-SUFFIX,spiceworks.com
@@ -2231,8 +2237,12 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,windscribe.com
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,wix-code.com
 DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,wixanswers.com
+DOMAIN-SUFFIX,wixapps.net
 DOMAIN-SUFFIX,wixmp.com
+DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,wk.cz
 DOMAIN-SUFFIX,wonderclub.com
