@@ -1,5 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # UPDATED: 2026-05-01
+DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
 DOMAIN-KEYWORD,speedtest
