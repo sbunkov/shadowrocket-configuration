@@ -1,5 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-04-30
+# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-banks.list
+# UPDATED: 2026-05-02
 DOMAIN-SUFFIX,1cb.ru
 DOMAIN-SUFFIX,1cupis.ru
 DOMAIN-SUFFIX,1erc.ru
