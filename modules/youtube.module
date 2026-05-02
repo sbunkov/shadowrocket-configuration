@@ -1,3 +1,6 @@
+# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
+# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/modules/youtube.module
+# UPDATED: 2026-05-02
 #!name=YouTube Premium
 #!desc=YouTube Ads & Shorts Blocker with PIP
 #!arguments=blockUpload:true,blockImmersive:true,blockShorts:true,captionLang:off,lyricLang:ru,scriptExecutionEngine:auto,debug:false
