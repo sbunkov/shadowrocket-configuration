@@ -1,7 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 # UPDATED: 2026-05-02
-DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
 DOMAIN-KEYWORD,speedtest
@@ -53,6 +52,7 @@ DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adidas.com
 DOMAIN-SUFFIX,adminforge.de
 DOMAIN-SUFFIX,admitad.com
+DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adultmult.tv
@@ -369,6 +369,7 @@ DOMAIN-SUFFIX,clip.opus.pro
 DOMAIN-SUFFIX,cloud.mongodb.com
 DOMAIN-SUFFIX,cloudex.cc
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudns.net
@@ -465,18 +466,9 @@ DOMAIN-SUFFIX,digitalcontent.sky
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,digitec.ch
-DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,disboard.org
 DOMAIN-SUFFIX,discogs.com
-DOMAIN-SUFFIX,discord-activities.com
-DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
-DOMAIN-SUFFIX,discordactivities.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-DOMAIN-SUFFIX,discordmerch.com
-DOMAIN-SUFFIX,discordpartygames.com
-DOMAIN-SUFFIX,discordsays.com
-DOMAIN-SUFFIX,discordstatus.com
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discours.io
 DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,disctech.com
@@ -749,7 +741,6 @@ DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,gopro.com
-DOMAIN-SUFFIX,gordonua.com
 DOMAIN-SUFFIX,gov.in
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,gpu-monkey.com
@@ -904,7 +895,6 @@ DOMAIN-SUFFIX,interactivebrokers.co.uk
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,internalfb.com
-DOMAIN-SUFFIX,internetua.com
 DOMAIN-SUFFIX,intuit.com
 DOMAIN-SUFFIX,intuitibits.com
 DOMAIN-SUFFIX,ionicframework.com
@@ -946,6 +936,7 @@ DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,js.org
 DOMAIN-SUFFIX,jsfiddle.net
 DOMAIN-SUFFIX,jshell.net
+DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,junodownload.com
 DOMAIN-SUFFIX,jut-su.net
 DOMAIN-SUFFIX,jut.su
@@ -1005,7 +996,6 @@ DOMAIN-SUFFIX,kolsar.org
 DOMAIN-SUFFIX,kompromat1.press
 DOMAIN-SUFFIX,konotop.city
 DOMAIN-SUFFIX,koofr.net
-DOMAIN-SUFFIX,kor.ill.in.ua
 DOMAIN-SUFFIX,korrespondent.net
 DOMAIN-SUFFIX,kovcheg.live
 DOMAIN-SUFFIX,kowalski7cc.xyz
@@ -1051,6 +1041,7 @@ DOMAIN-SUFFIX,lgeapi.com
 DOMAIN-SUFFIX,lgthinq.com
 DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,lib.rus.ec
+DOMAIN-SUFFIX,libgen.fun
 DOMAIN-SUFFIX,libgen.gs
 DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,libgen.li
@@ -1086,7 +1077,6 @@ DOMAIN-SUFFIX,livechat.com
 DOMAIN-SUFFIX,livechatinc.com
 DOMAIN-SUFFIX,livejournal.com
 DOMAIN-SUFFIX,livetv.sx
-DOMAIN-SUFFIX,liveuamap.com
 DOMAIN-SUFFIX,llhost.eu
 DOMAIN-SUFFIX,llimonix.dev
 DOMAIN-SUFFIX,lnkd.in
@@ -1213,7 +1203,6 @@ DOMAIN-SUFFIX,mintmobile.com
 DOMAIN-SUFFIX,miot-spec.com
 DOMAIN-SUFFIX,miracleptr.wordpress.com
 DOMAIN-SUFFIX,mirror.chaotic.cx
-DOMAIN-SUFFIX,mistaua.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,mltpl.city
@@ -1472,7 +1461,6 @@ DOMAIN-SUFFIX,pepperl-fuchs.com
 DOMAIN-SUFFIX,pereiaslav.city
 DOMAIN-SUFFIX,perficient.com
 DOMAIN-SUFFIX,perforce.com
-DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,perito.media
 DOMAIN-SUFFIX,perlego.com
 DOMAIN-SUFFIX,peter-tanner.com
@@ -1565,7 +1553,6 @@ DOMAIN-SUFFIX,proverkassl.com
 DOMAIN-SUFFIX,prowlarr.com
 DOMAIN-SUFFIX,proxyscrape.com
 DOMAIN-SUFFIX,prytulafoundation.org
-DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,pstmn.io
@@ -1696,6 +1683,7 @@ DOMAIN-SUFFIX,rutor.is
 DOMAIN-SUFFIX,rutor.org
 DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.ru
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,sakh.biz
 DOMAIN-SUFFIX,sakh.com
@@ -1948,7 +1936,7 @@ DOMAIN-SUFFIX,systemtek.co.uk
 DOMAIN-SUFFIX,szabadeuropa.hu
 DOMAIN-SUFFIX,t-invariant.org
 DOMAIN-SUFFIX,t-s.news
-DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,t3.chat
 DOMAIN-SUFFIX,tableau.com
 DOMAIN-SUFFIX,tableausoftware.com
@@ -1975,9 +1963,10 @@ DOMAIN-SUFFIX,tefl.org
 DOMAIN-SUFFIX,tekstowo.pl
 DOMAIN-SUFFIX,telegraf.by
 DOMAIN-SUFFIX,telegraf.news
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telemetr.io
-DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,templatemonster.com
 DOMAIN-SUFFIX,tempmail.plus
 DOMAIN-SUFFIX,temu.com
@@ -2091,19 +2080,14 @@ DOMAIN-SUFFIX,twin.me
 DOMAIN-SUFFIX,twinlife-systems.com
 DOMAIN-SUFFIX,twinme.com
 DOMAIN-SUFFIX,twirpx.com
-DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
-DOMAIN-SUFFIX,twtrdns.net
-DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typing.com
 DOMAIN-SUFFIX,typora.io
-DOMAIN-SUFFIX,ua
-DOMAIN-SUFFIX,ua-football.com
-DOMAIN-SUFFIX,ua.news
-DOMAIN-SUFFIX,ua.tribuna.com
 DOMAIN-SUFFIX,uaudio.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
@@ -2115,12 +2099,6 @@ DOMAIN-SUFFIX,udemy.com
 DOMAIN-SUFFIX,ufile.io
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,uizard.io
-DOMAIN-SUFFIX,ukdevilz.com
-DOMAIN-SUFFIX,ukr.net
-DOMAIN-SUFFIX,ukrainianwall.com
-DOMAIN-SUFFIX,ukranews.com
-DOMAIN-SUFFIX,ukrayina.pl
-DOMAIN-SUFFIX,ukrlife.org
 DOMAIN-SUFFIX,ultimaker.com
 DOMAIN-SUFFIX,ultraedit.com
 DOMAIN-SUFFIX,umannews.city
@@ -2170,7 +2148,6 @@ DOMAIN-SUFFIX,videa.hu
 DOMAIN-SUFFIX,viewpoint.pwc.com
 DOMAIN-SUFFIX,vikna.tv
 DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,vinograd.info
 DOMAIN-SUFFIX,vipdrive.net
 DOMAIN-SUFFIX,vipergirls.to
@@ -2294,6 +2271,7 @@ DOMAIN-SUFFIX,yummyani.me
 DOMAIN-SUFFIX,yummyanime.tv
 DOMAIN-SUFFIX,yuzhkanews.city
 DOMAIN-SUFFIX,z-lib.io
+DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,zahav.ru
 DOMAIN-SUFFIX,zakvaski.com
 DOMAIN-SUFFIX,zannn.top
@@ -2311,6 +2289,7 @@ DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-SUFFIX,zetalliance.org
 DOMAIN-SUFFIX,zhmerynka.city
+DOMAIN-SUFFIX,zlib.org
 DOMAIN-SUFFIX,znanija.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,zohomail.com
