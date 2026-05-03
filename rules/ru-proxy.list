@@ -1,6 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
-# UPDATED: 2026-05-02
+# UPDATED: 2026-05-03
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
 DOMAIN-KEYWORD,speedtest
@@ -1435,6 +1435,7 @@ DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,parts-express.com
 DOMAIN-SUFFIX,passportphotosnap.com
 DOMAIN-SUFFIX,pastebin.com
+DOMAIN-SUFFIX,patagonia.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,patterns.dev
