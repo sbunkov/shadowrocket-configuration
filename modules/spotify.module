@@ -1,6 +1,3 @@
-# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/modules/spotify.module
-# UPDATED: 2026-05-02
 #!name=Spotify Premium
 #!desc=Spotify Premium
 # Premium unlock (track selection, album view) + full removal of ads and trackers.
