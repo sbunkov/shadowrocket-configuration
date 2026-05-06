@@ -1,6 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 # UPDATED: 2026-05-03
+# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
 DOMAIN-KEYWORD,speedtest
@@ -302,6 +302,7 @@ DOMAIN-SUFFIX,buymeacoffee.com
 DOMAIN-SUFFIX,bwa.to
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,cambiumnetworks.com
+DOMAIN-SUFFIX,cameralabs.com
 DOMAIN-SUFFIX,cannaweed.com
 DOMAIN-SUFFIX,canva-apps.com
 DOMAIN-SUFFIX,canva.com
@@ -1249,6 +1250,7 @@ DOMAIN-SUFFIX,myqrcode.com
 DOMAIN-SUFFIX,myrotvorets.center
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,n8n.cloud
+DOMAIN-SUFFIX,nanobag.com
 DOMAIN-SUFFIX,narkive.com
 DOMAIN-SUFFIX,nascompares.com
 DOMAIN-SUFFIX,nba.com
@@ -1980,6 +1982,7 @@ DOMAIN-SUFFIX,teslasoft.org
 DOMAIN-SUFFIX,text.com
 DOMAIN-SUFFIX,tf1.fr
 DOMAIN-SUFFIX,tf1info.fr
+DOMAIN-SUFFIX,the-digital-picture.com
 DOMAIN-SUFFIX,the-village.ru
 DOMAIN-SUFFIX,theaudiodb.com
 DOMAIN-SUFFIX,thebarentsobserver.com
