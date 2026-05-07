@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-03
+# UPDATED: 2026-05-07
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -711,6 +711,7 @@ DOMAIN-SUFFIX,getyourmap.cc
 DOMAIN-SUFFIX,getyourmap.com
 DOMAIN-SUFFIX,gfn.am
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,ghidra-sre.org
 DOMAIN-SUFFIX,gidonline.eu
 DOMAIN-SUFFIX,gifyu.com
