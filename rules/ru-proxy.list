@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-07
+# UPDATED: 2026-05-11
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -1910,6 +1910,7 @@ DOMAIN-SUFFIX,stulchik.net
 DOMAIN-SUFFIX,succurity.com
 DOMAIN-SUFFIX,summer.fi
 DOMAIN-SUFFIX,summerana.com
+DOMAIN-SUFFIX,supabase.co
 DOMAIN-SUFFIX,supasidebar.com
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,supersliv.biz
