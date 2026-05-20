@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-13
+# UPDATED: 2026-05-20
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -597,6 +597,7 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fastflux.ai
 DOMAIN-SUFFIX,fastivnews.city
 DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastpic.org
 DOMAIN-SUFFIX,fastspring.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
