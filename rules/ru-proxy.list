@@ -1,6 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # UPDATED: 2026-05-21
-# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.lst
+# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
 DOMAIN-KEYWORD,speedtest
