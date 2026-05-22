@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-21
+# UPDATED: 2026-05-22
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -301,6 +301,7 @@ DOMAIN-SUFFIX,bundlehunt.com
 DOMAIN-SUFFIX,busuu.com
 DOMAIN-SUFFIX,buymeacoffee.com
 DOMAIN-SUFFIX,bwa.to
+DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,cambiumnetworks.com
 DOMAIN-SUFFIX,cameralabs.com
@@ -1854,6 +1855,7 @@ DOMAIN-SUFFIX,sonauto.ai
 DOMAIN-SUFFIX,songsear.ch
 DOMAIN-SUFFIX,sonos.com
 DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sonyalpharumors.com
 DOMAIN-SUFFIX,sophos.com
 DOMAIN-SUFFIX,sotaproject.com
