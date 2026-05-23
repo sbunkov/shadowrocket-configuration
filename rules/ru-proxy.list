@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-22
+# UPDATED: 2026-05-23
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -1094,6 +1094,7 @@ DOMAIN-SUFFIX,logo.com
 DOMAIN-SUFFIX,lolz.guru
 DOMAIN-SUFFIX,londonstockexchange.com
 DOMAIN-SUFFIX,lookerstudio.google.com
+DOMAIN-SUFFIX,loopearplugs.com
 DOMAIN-SUFFIX,lordsfilm.info
 DOMAIN-SUFFIX,lostfilm.run
 DOMAIN-SUFFIX,lostfilm.tv
