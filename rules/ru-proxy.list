@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-23
+# UPDATED: 2026-05-28
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -985,6 +985,7 @@ DOMAIN-SUFFIX,kinokopilka.pro
 DOMAIN-SUFFIX,kinokrad.cc
 DOMAIN-SUFFIX,kinokrad.pics
 DOMAIN-SUFFIX,kinovod.net
+DOMAIN-SUFFIX,kinozal.guru
 DOMAIN-SUFFIX,kinozal.me
 DOMAIN-SUFFIX,kinozal.tv
 DOMAIN-SUFFIX,kinozaltv.life
