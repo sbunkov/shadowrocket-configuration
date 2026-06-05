@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-05-28
+# UPDATED: 2026-06-05
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -798,6 +798,7 @@ DOMAIN-SUFFIX,hdrezka.re
 DOMAIN-SUFFIX,hdrezka.sh
 DOMAIN-SUFFIX,hdrzk.org
 DOMAIN-SUFFIX,hdstudio.org
+DOMAIN-SUFFIX,headwayapp.co
 DOMAIN-SUFFIX,healthline.com
 DOMAIN-SUFFIX,heavyfetish.com
 DOMAIN-SUFFIX,helpdesk-static.com
