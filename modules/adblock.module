@@ -8,3 +8,4 @@ DOMAIN-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/
 
 RULE-SET,https://big.oisd.nl/surge.list,REJECT
 RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/Advertising/Advertising.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/xxuxxx/domainslist/refs/heads/main/ads,REJECT
