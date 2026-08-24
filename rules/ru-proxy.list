@@ -1,5 +1,5 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-06-05
+# UPDATED: 2026-08-24
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,muji
@@ -414,6 +414,7 @@ DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,crunchyrollcdn.com
 DOMAIN-SUFFIX,cryptpad.fr
 DOMAIN-SUFFIX,csdlcdn.vaio.com
+DOMAIN-SUFFIX,cub.best
 DOMAIN-SUFFIX,cub.red
 DOMAIN-SUFFIX,cub.rip
 DOMAIN-SUFFIX,cub.watch
