@@ -1,2 +1,5 @@
+# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
+# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/additional-rules-ru-reject.list
+# UPDATED: 2026-09-11
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
 DOMAIN-SUFFIX,tracker-api.vk-analytics.ru
