@@ -1,7 +1,8 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
-# UPDATED: 2026-08-24
+# UPDATED: 2026-09-11
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ru-proxy.list
 DOMAIN-KEYWORD,decathlon
+DOMAIN-KEYWORD,ikea
 DOMAIN-KEYWORD,muji
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,1001.tl
@@ -861,7 +862,6 @@ DOMAIN-SUFFIX,igg-games.com
 DOMAIN-SUFFIX,ign.com
 DOMAIN-SUFFIX,iherb.com
 DOMAIN-SUFFIX,iichan.hk
-DOMAIN-SUFFIX,ikea
 DOMAIN-SUFFIX,ikea-usa.com
 DOMAIN-SUFFIX,ikea.com
 DOMAIN-SUFFIX,ikissvk.com
