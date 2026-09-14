@@ -1,6 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/additional-rules-ru-proxy.list
-# UPDATED: 2026-09-11
+# UPDATED: 2026-09-14
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,ikea
 DOMAIN-KEYWORD,muji
