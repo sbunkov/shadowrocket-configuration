@@ -2,7 +2,6 @@
 #!desc=Ad Blocker
 
 [Rule]
-DOMAIN-SET,https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/ultimate-onlydomains.txt,REJECT,pre-matching
 DOMAIN-SET,https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list,REJECT,pre-matching
 DOMAIN-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/Advertising/Advertising_Domain.list,REJECT,pre-matching
 
