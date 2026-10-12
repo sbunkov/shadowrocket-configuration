@@ -1,11 +1,12 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/additional-rules-ru-direct.list
-# UPDATED: 2026-10-11
+# UPDATED: 2026-10-12
 DOMAIN-SUFFIX,checkip.amazonaws.com
 DOMAIN-SUFFIX,eu.2gis.com
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,max.ru
+DOMAIN-SUFFIX,mt.today
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,ping.ozon.kz
