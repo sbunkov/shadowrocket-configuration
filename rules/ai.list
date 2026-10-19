@@ -1,0 +1,12 @@
+# REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
+# URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/ai.list
+# UPDATED: 2026-10-19
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,alkalimining-pa.googleapis.com
+DOMAIN-SUFFIX,content-push.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,geminiweb-pa.clients6.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,ogads-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,signaler-pa.clients6.google.com
