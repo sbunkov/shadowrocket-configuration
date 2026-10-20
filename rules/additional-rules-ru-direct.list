@@ -1,13 +1,14 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/additional-rules-ru-direct.list
 # UPDATED: 2026-10-20
+DOMAIN-SUFFIX,amp-api-search-edge.apps.apple.com
 DOMAIN-SUFFIX,apple.com.edgesuite.net
+DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,checkip.amazonaws.com
 DOMAIN-SUFFIX,eu.2gis.com
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,imap.mail.me.com.akadns.net
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,ls-apple.akadns.net
 DOMAIN-SUFFIX,max.ru
 DOMAIN-SUFFIX,mt.today
