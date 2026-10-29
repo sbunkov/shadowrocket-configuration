@@ -1,6 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/additional-rules-ru-proxy.list
-# UPDATED: 2026-10-12
+# UPDATED: 2026-10-29
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,ikea
 DOMAIN-KEYWORD,muji
@@ -769,7 +769,6 @@ DOMAIN-SUFFIX,more.fm
 DOMAIN-SUFFIX,mssg.me
 DOMAIN-SUFFIX,mult.ru
 DOMAIN-SUFFIX,multisim.com
-DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,myparallels.com
 DOMAIN-SUFFIX,myprepaidcenter.com
