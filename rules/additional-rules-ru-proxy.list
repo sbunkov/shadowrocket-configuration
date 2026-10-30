@@ -1,6 +1,6 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/additional-rules-ru-proxy.list
-# UPDATED: 2026-10-29
+# UPDATED: 2026-10-30
 DOMAIN-KEYWORD,decathlon
 DOMAIN-KEYWORD,ikea
 DOMAIN-KEYWORD,muji
@@ -476,6 +476,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,guilded.gg
 DOMAIN-SUFFIX,gurumaps.app
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hackmd.io
