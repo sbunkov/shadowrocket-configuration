@@ -1,8 +1,7 @@
 # REPOSITORY: https://github.com/sbunkov/shadowrocket-configuration
 # UPDATED: 2026-11-06
 # URL: https://raw.githubusercontent.com/sbunkov/shadowrocket-configuration/refs/heads/main/rules/apple.list
-DOMAIN,api.apple-cloudkit.com
-DOMAIN,gateway.icloud.com
+DOMAIN-KEYWORD,-apple.com.akadns.net
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,apple-cloudkit.com
@@ -15,23 +14,14 @@ DOMAIN-SUFFIX,apple.map.fastly.net
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
-DOMAIN-SUFFIX,courier2-push-apple.com.akadns.net
 DOMAIN-SUFFIX,cups.org
-DOMAIN-SUFFIX,edge-itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,foundationdb.org
-DOMAIN-SUFFIX,gc-apple.com.akadns.net
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,itun.es
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-DOMAIN-SUFFIX,lb-apple.com.akadns.net
-DOMAIN-SUFFIX,ls-apple.com.akadns.net
-DOMAIN-SUFFIX,ls2-apple.com.akadns.net
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,webkit.org
